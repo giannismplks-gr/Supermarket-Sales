@@ -1,2 +1,2 @@
 # Supermarket-Sales
-Business-oriented sales analysis project using SQL, Excel, and Power BI for reporting, data visualization, and operational insights based on supermarket sales data.
+Business reporting project using Excel, SQL, and Power BI to monitor sales data, visualize trends, and support operational insights.
